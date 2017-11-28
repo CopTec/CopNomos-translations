@@ -1,4 +1,12 @@
-# OpenProject Translations Plugin
+# CopNomos - OpenProject Translations Plugin
+
+
+Plugin de CopNomos OpenProject Translations, cuya versión es una modificación de Software Oficial de OpenProject Edición Comunitaria  Translations Plugin(Stable/5).
+
+Versión Official Plugin de openproject edición comunitaria tomada de:
+
+https://github.com/opf/openproject-translations/tree/stable/5
+
 
 `openproject-translations` is an OpenProject plugin, which adds more languages to your OpenProject installation.
 
