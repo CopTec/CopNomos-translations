@@ -2281,3 +2281,8 @@ es:
           padres.
     resources:
       schema: Esquema
+
+  #Personalización 
+  personalization:
+    welcome:
+      right_block_title: Sistema de Soporte Jurídico
