@@ -2286,3 +2286,11 @@ es:
   personalization:
     welcome:
       right_block_title: Sistema de Soporte Jurídico
+      right_block_content: Sistema para el soporte del estudio y análisis a nivel jurídico en la gestión de los procesos
+       correpondientes a los expedientes sujetos al procedimiento de cobro coactivo del área metropolitana de Barranquilla 
+       en relación con los automotores de servicio publico (Taxis).
+      right_block_description_list: "Funcionalidades generales :"
+      right_block_list_1: Gestión y seguimiento a las actividades y/o procesos de análisis jurídico
+      right_block_list_2: Gestión de documentos referentes a los expedientes relacionados con el proceso de cobro coactivo
+      right_block_list_3: Generación de reportes concernientes a las actividades y/o procesos
+        
