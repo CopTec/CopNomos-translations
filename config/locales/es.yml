@@ -2284,6 +2284,8 @@ es:
 
   #Personalización 
   personalization:
+    name_company: CopTec S.A.S
+    title_company: Página Oficial Empresa CopTec S.A.S
     welcome:
       right_block_title: Sistema de Soporte Jurídico
       right_block_content: Sistema para el soporte del estudio y análisis a nivel jurídico en la gestión de los procesos
