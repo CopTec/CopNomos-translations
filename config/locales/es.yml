@@ -2286,8 +2286,15 @@ es:
   personalization:
     name_company: CopTec S.A.S
     title_company: Página Oficial Empresa CopTec S.A.S
+    title_mission_company: MISIÓN
+    content_mission_company: Implementar en su totalidad  la etapa persuasiva de los expedientes susceptibles de cobro coactivo,
+     específicamente a los vehículos de servicio publico (taxis) pertenecientes al Área Metropolitana de Barranquilla,
+     por medio de un estudio jurídico detallado, con el fin de diagnosticar las bases y motivos del surgimiento de la deuda.
+    title_view_company: VISIÓN
+    content_view_company: Estructurar proyectos de ambito juridico a nivel regional y nacional, tendientes a iniciar un proceso
+     de cobro juridico de la cartera morosa de taxis en favor del Área Metropolitana de Barranquilla.
     welcome:
-      right_block_title: Sistema de Soporte Jurídico
+      right_block_title: SISTEMA DE SOPORTE JURÍDICO
       right_block_content: Sistema para el soporte del estudio y análisis a nivel jurídico en la gestión de los procesos
        correpondientes a los expedientes sujetos al procedimiento de cobro coactivo del área metropolitana de Barranquilla 
        en relación con los automotores de servicio publico (Taxis).
